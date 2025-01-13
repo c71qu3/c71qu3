@@ -1,11 +1,9 @@
-<!-- logo -->
 <p align="center">
-    <a href="./assets/c71qu3_icon.svg" alt="c71qu3 Icon">
-    <img src="./assets/c71qu3_icon.svg" height="173"/></a>
+    <img src="./public/c71qu3_favicon.svg" alt="" height="173"/>
 </p>
 
-<h1 align="center"> <img src="./assets/c71qu3_logo.svg" height="100"/></a> </h1>
+<h1 align="center"> <img src="./src/c71qu3.png" height="100"/></a> </h1>
 
-### An attempt by [GuayaKO](mailto:GuayaKO@c71qu3.link) to build a _distributed_ social network were users can **build**, **share**, and **explore** knowledge graphs.
-
-
+<p align="center">
+    Distributed <b>social network</b> to build, share, and explore <b>knowledge graphs</b>.
+</p>
